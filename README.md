@@ -1,3 +1,3 @@
 # hello--world
-Just another repository
 r.shastri
+to be a good devloper learn how to code.
